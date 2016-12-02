@@ -1,0 +1,5 @@
+SimpleAchievements:sa.achievementBook,1,0
+minecraft:torch,1,0
+minecraft:stick,1,0,{RepairCost:2,display:{Name:"Builder's Wand"}}
+TConstruct:strangeFood,1,2
+harvestcraft:donutItem,1,0
